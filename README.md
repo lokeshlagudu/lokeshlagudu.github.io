@@ -1,5 +1,4 @@
 <div style="float:left"><img src="https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG" width="250" height="250"></div>
-
 ## Welcome to Lokesh Lagudu's Pages
 
 You can use the [editor on GitHub](https://github.com/lokeshlagudu/lokeshlagudu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
