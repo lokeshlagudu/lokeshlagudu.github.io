@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG){:height="50%" width="50%"}
+<img src="https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG" width="250" height="250">
 
 ## Welcome to Lokesh Lagudu's Pages
 
