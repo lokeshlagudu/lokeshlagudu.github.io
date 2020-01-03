@@ -1,4 +1,4 @@
-<div style="float:right"><img src="https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG" width="250" height="250"></div>
+<div style="float:right"><img alt="avatar" src="https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG" width="250" height="250" ></div>
 ## Welcome to Lokesh Lagudu's Blog
 
 Personally, I am an ardent follower of sports and a complete movie/TV show buff. Unlike anyone else, how I think is all been shaped by my life's experience. One thing I would say that defines me is I Love to Learn. I get excited about new things. I buy more books than I complete. I buy more things than I use. I have more friends than I need. The thing is about, I see people doing great things and learning from them is the one that truly excites me.
