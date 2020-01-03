@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG)
+![alt text](https://raw.githubusercontent.com/lokeshlagudu/lokeshlagudu.github.io/master/images/IMG_1608.JPG){:height="50%" width="50%"}
 
 ## Welcome to Lokesh Lagudu's Pages
 
